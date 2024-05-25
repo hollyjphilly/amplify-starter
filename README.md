@@ -1,10 +1,32 @@
-## AWS Amplify React+Vite Starter Template
+## Amplify Starter Template
 
-This repository provides a starter template for creating applications using React+Vite and AWS Amplify, emphasizing easy setup for authentication, API, and database capabilities.
+{Enter a description here and update the places with a ⭐️}
 
 ## Overview
 
-This template equips you with a foundational React application integrated with AWS Amplify, streamlined for scalability and performance. It is ideal for developers looking to jumpstart their project with pre-configured AWS services like Cognito, AppSync, and DynamoDB.
+This web app is a React application integrated with AWS Amplify. It is pre-configured AWS services like Cognito, AppSync, and DynamoDB.
+
+## Branches
+
+| Branch | Purpose |
+| ------ | ------- |
+| ⭐️`STARTER-123` | You should create branches like this with the ticket name. |
+| `release-X.X.X` | Create your branches from/point your brances to the next release. |
+| `main` | Development Branch - New release branches are created off here. |
+| `qa` | Testing Branch - This branch is live on ⭐️`qa.STARTER.com` for testing. |
+| `prod` | Production Branch - This branch is live on ⭐️`www.STARTER.com`. |
+
+## Development
+
+Use GitHub Codespaces. Write good PRs with ticket title, decription or comments of changes made, and testing instructions. Don't merge your own PRs.
+
+## Testing
+
+TBD
+
+## Deployment
+
+The deployment process for this application can be found here in the [AWS Amplify Docs](https://docs.amplify.aws/react/start/quickstart/#deploy-a-fullstack-app-to-aws)
 
 ## Features
 
@@ -12,14 +34,6 @@ This template equips you with a foundational React application integrated with A
 - **API**: Ready-to-use GraphQL endpoint with AWS AppSync.
 - **Database**: Real-time database powered by Amazon DynamoDB.
 
-## Deploying to AWS
-
-For detailed instructions on deploying your application, refer to the [deployment section](https://docs.amplify.aws/react/start/quickstart/#deploy-a-fullstack-app-to-aws) of our documentation.
-
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
 ## License
 
-This library is licensed under the MIT-0 License. See the LICENSE file.
+This project is licensed under the MIT-0 License. See the LICENSE file.
