@@ -1,10 +1,13 @@
-## Amplify Starter Template
+# ⭐️ Amplify Starter Template
 
-{Enter a description here and update the places with a ⭐️}
+⭐️ Enter an app description
 
-## Overview
+## Stack Overview
 
 This web app is a React application integrated with AWS Amplify. It is pre-configured AWS services like Cognito, AppSync, and DynamoDB.
+- **Authentication**: Setup with Amazon Cognito for secure user authentication.
+- **API**: Ready-to-use GraphQL endpoint with AWS AppSync.
+- **Database**: Real-time database powered by Amazon DynamoDB.
 
 ## Branches
 
@@ -26,13 +29,7 @@ TBD
 
 ## Deployment
 
-The deployment process for this application can be found here in the [AWS Amplify Docs](https://docs.amplify.aws/react/start/quickstart/#deploy-a-fullstack-app-to-aws)
-
-## Features
-
-- **Authentication**: Setup with Amazon Cognito for secure user authentication.
-- **API**: Ready-to-use GraphQL endpoint with AWS AppSync.
-- **Database**: Real-time database powered by Amazon DynamoDB.
+Pushing to `qa` or `prod` branches will auto deploy those code changes. Details on the deployment process n be found in the [AWS Amplify Docs](https://docs.amplify.aws/react/start/quickstart/#deploy-a-fullstack-app-to-aws).
 
 ## License
 
