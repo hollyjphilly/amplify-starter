@@ -29,7 +29,7 @@ TBD
 
 ## Deployment
 
-Pushing to `qa` or `prod` branches will auto deploy those code changes. Details on the deployment process n be found in the [AWS Amplify Docs](https://docs.amplify.aws/react/start/quickstart/#deploy-a-fullstack-app-to-aws).
+Pushing to `qa` or `prod` will deploy that code. Only the leader of this project should be pushing to those branches. Details on the deployment process n be found in the [AWS Amplify Docs](https://docs.amplify.aws/react/start/quickstart/#deploy-a-fullstack-app-to-aws).
 
 ## License
 
